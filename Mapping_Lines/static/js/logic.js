@@ -55,8 +55,8 @@ let line = [
 L.polyline(line, {
   color: "blue",
   weight: '4', 
-  dashArray: '20, 20',
-  dashOffset: '20',
+  dashArray: '5, 5',
+  dashOffset: '100',
   opacity: '0.5'
 }).addTo(map);
 
